@@ -1,0 +1,43 @@
+.main-footer {
+    color: white;
+    background-color: black;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.mcontainer {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+i {
+    color: white;
+}
+
+a {
+    padding: 10px;
+    color: #FFF;
+}
+
+a:hover {
+    color: #FFF;
+}
+
+
+.mrow {
+    width: 100%;
+}
+
+img {
+    width: 125px;
+    height: 125px;
+}
+
+.col {
+    margin-top: 30px;
+}
+
+#col {
+    margin-top: 0px;
+}
